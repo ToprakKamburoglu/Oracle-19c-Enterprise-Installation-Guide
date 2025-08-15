@@ -713,7 +713,7 @@ This project is for educational purposes. Oracle Database software is a commerci
 ## 🏢 Organization
 
 <div align="center">
-  <img src="images/Figes.png" alt="Figes Logo" width="150"/>
+  <img src="images/Figes.png" alt="Figes Logo" width="500"/>
 </div>
 
 This project was developed under the guidance of **Figes** organization.
