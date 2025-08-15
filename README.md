@@ -20,7 +20,7 @@ This project provides a comprehensive guide for installing and configuring Oracl
 
 | Section              | Link |
 |----------------------|------|
-| Download Complete PDF Guide | [Go to Section](#-./IFS_Oracle_19c_Installation_and_Configuration_Oracle_Linux_8.10.pdf) |
+| Download Complete PDF Guide | [Go to Section](./IFS_Oracle_19c_Installation_and_Configuration_Oracle_Linux_8.10.pdf) |
 | Overview             | [Go to Section](#-overview) |
 | System Requirements  | [Go to Section](#-system-requirements) |
 | Installation Steps   | [Go to Section](#-installation-steps) |
