@@ -703,21 +703,6 @@ We welcome contributions to improve this installation guide!
 
 This project is for educational purposes. Oracle Database software is a commercial product of Oracle Corporation and is subject to Oracle's licensing terms.
 
-## 👨‍💻 Author
-
-**Toprak Kamburoğlu**
-- Department: Computer Engineering
-- University: Kadir Has University
-- Project: Oracle 19c Installation and Configuration
-
-## 🏢 Organization
-
-<div align="center">
-<img src="images/Figes.png" alt="Figes Logo" width="500"/>
-
-This project was developed under the guidance of **Figes** organization.
-</div>
-
 ## ⚠️ Important Notes
 
 ### Development vs Production
@@ -738,10 +723,4 @@ This project was developed under the guidance of **Figes** organization.
 
 ---
 
-<div align="center">
-
-**📝 Note**: This guide provides a comprehensive installation procedure for Oracle Database 19c Enterprise Edition. For different Oracle versions or specific requirements, please refer to Oracle's official documentation.
-
-**⭐ If this guide helped you, please give it a star!**
-
-</div>
+For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
