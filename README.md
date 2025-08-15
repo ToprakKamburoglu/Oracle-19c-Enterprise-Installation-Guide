@@ -1,7 +1,7 @@
 # Oracle Database 19c Enterprise Edition Installation Guide
 
 <div align="center">
-  <img src="images/Figes.png" alt="Figes Logo" width="200"/>
+  <img src="images/Figes.png" alt="Figes Logo" width="500"/>
 </div>
 
 <div align="center">
