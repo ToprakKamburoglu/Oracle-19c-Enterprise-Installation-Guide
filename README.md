@@ -699,10 +699,6 @@ We welcome contributions to improve this installation guide!
 - Include screenshots for complex procedures
 - Update the Table of Contents if adding new sections
 
-## 📄 License
-
-This project is for educational purposes. Oracle Database software is a commercial product of Oracle Corporation and is subject to Oracle's licensing terms.
-
 ## ⚠️ Important Notes
 
 ### Development vs Production
@@ -722,5 +718,9 @@ This project is for educational purposes. Oracle Database software is a commerci
 - Always check Oracle's compatibility matrix for your specific environment
 
 ---
+
+## 📄 License
+
+This project is for educational purposes. Oracle Database software is a commercial product of Oracle Corporation and is subject to Oracle's licensing terms.
 
 For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
