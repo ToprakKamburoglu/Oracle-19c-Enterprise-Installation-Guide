@@ -15,6 +15,7 @@
 </div>
 
 This project provides a comprehensive guide for installing and configuring Oracle Database 19c (19.3) Enterprise Edition on Oracle Linux 8.10 using Oracle VirtualBox virtualization platform. You can check the detailed guide of "IFS_Oracle 19c Installation and Configuration – Oracle Linux 8.10.pdf". 
+**Note:** If the PDF does not open directly in your browser, [download it here](./IFS_Oracle 19c Installation and Configuration – Oracle Linux 8.10.pdf) and open it locally.
 
 ## 📋 Table of Contents
 
