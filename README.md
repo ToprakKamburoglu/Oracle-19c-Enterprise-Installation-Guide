@@ -34,7 +34,6 @@ This project provides a comprehensive guide for installing and configuring Oracl
 This guide covers the complete installation and configuration process including:
 
 ### Project Details
-- **Delivery Date**: March 17
 - **Virtualization Platform**: Oracle VirtualBox
 - **Operating System**: Oracle Linux 8.10 UEK x86-64
 - **Database Version**: Oracle Database 19c (19.3) Enterprise Edition
@@ -676,10 +675,12 @@ SELECT * FROM V$BACKUP_SET;
 
 ## 📖 References
 
-- [Oracle Database 19c Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/19/)
-- [Oracle Linux 8 Documentation](https://docs.oracle.com/en/operating-systems/oracle-linux/8/)
-- [VirtualBox User Manual](https://www.virtualbox.org/manual/)
-- [Oracle Database Installation Guide](https://docs.oracle.com/en/database/oracle/oracle-database/19/ladbi/)
+| Title | Link |
+|-------|------|
+| Oracle Database 19c Documentation | [View](https://docs.oracle.com/en/database/oracle/oracle-database/19/) |
+| Oracle Linux 8 Documentation | [View](https://docs.oracle.com/en/operating-systems/oracle-linux/8/) |
+| VirtualBox User Manual | [View](https://www.virtualbox.org/manual/) |
+| Oracle Database Installation Guide | [View](https://docs.oracle.com/en/database/oracle/oracle-database/19/ladbi/) |
 
 ## 🤝 Contributing
 
