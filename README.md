@@ -717,8 +717,6 @@ We welcome contributions to improve this installation guide!
 - Commands and procedures may vary for different Oracle versions
 - Always check Oracle's compatibility matrix for your specific environment
 
----
-
 ## 📄 License
 
 This project is for educational purposes. Oracle Database software is a commercial product of Oracle Corporation and is subject to Oracle's licensing terms.
