@@ -40,7 +40,7 @@ This guide covers the complete installation and configuration process including:
 - **Container Database (CDB)**: TESTCDB
 - **Pluggable Database (PDB)**: TESTPDB
 
-### Architecture
+### 🏛️ Architecture
 ```
 ┌─────────────────────────────────────────┐
 │           Host Operating System          │
