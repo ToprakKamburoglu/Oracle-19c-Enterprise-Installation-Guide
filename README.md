@@ -18,14 +18,16 @@ This project provides a comprehensive guide for installing and configuring Oracl
 
 ## 📋 Table of Contents
 
-- [Overview](#-overview)
-- [System Requirements](#-system-requirements)
-- [Installation Steps](#-installation-steps)
-- [Configuration](#-configuration)
-- [Security Settings](#-security-settings)
-- [Backup Procedures](#-backup-procedures)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
+| Section              | Link |
+|----------------------|------|
+| Overview             | [Go to Section](#-overview) |
+| System Requirements  | [Go to Section](#-system-requirements) |
+| Installation Steps   | [Go to Section](#-installation-steps) |
+| Configuration        | [Go to Section](#-configuration) |
+| Security Settings    | [Go to Section](#-security-settings) |
+| Backup Procedures    | [Go to Section](#-backup-procedures) |
+| Troubleshooting      | [Go to Section](#-troubleshooting) |
+| Contributing         | [Go to Section](#-contributing) |
 
 ## 🎯 Overview
 
