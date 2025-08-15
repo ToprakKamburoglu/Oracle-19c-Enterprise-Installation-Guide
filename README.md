@@ -720,6 +720,6 @@ We welcome contributions to improve this installation guide!
 
 ## 📄 License
 
-This project is for educational purposes. Oracle Database software is a commercial product of Oracle Corporation and is subject to Oracle's licensing terms.
+This project is for educational purposes. Oracle Database software is a commercial product of Oracle Corporation and is subject to Oracle's licensing terms. This project is licensed under the [MIT License](LICENSE).
 
 For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
